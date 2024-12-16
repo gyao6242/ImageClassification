@@ -1,0 +1,5 @@
+# Python bytecode files
+__pycache__/
+
+# JupyterNotebook Checkpoints
+.ipynb_checkpoints/
